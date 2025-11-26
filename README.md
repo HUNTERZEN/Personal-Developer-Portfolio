@@ -24,7 +24,7 @@ To get this project up and running locally on your machine:
    git clone [https://github.com/yourusername/developer-portfolio.git](https://github.com/yourusername/developer-portfolio.git)
    cd developer-portfolio
 
- 2. **Install dependencies
+ 2. **Install dependencies**
 
      ```bash
      npm install
