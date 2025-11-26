@@ -55,12 +55,12 @@ To get this project up and running locally on your machine:
    
    Edit the App.jsx file to update your personal information:
    
-     .  Look for the Hero Section to change your Name and Title.
+   .  Look for the Hero Section to change your Name and Title.
 
-     .  Update the About section with your biography.
+   .  Update the About section with your biography.
 
-     .  Modify the projects array to feature your own GitHub repositories.
+   .  Modify the projects array to feature your own GitHub repositories.
 
-    Changing Colors
+   Changing Colors
     
-    The theme uses standard Tailwind colors (Slate, Blue, Emerald). You can  do a global find-and-replace for blue-500 to your preferred brand color (e.g., purple-500 or indigo-500).
+   The theme uses standard Tailwind colors (Slate, Blue, Emerald). You can  do a global find-and-replace for blue-500 to your preferred brand color (e.g., purple-500 or indigo-500).
