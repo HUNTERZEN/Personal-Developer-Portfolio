@@ -23,10 +23,44 @@ To get this project up and running locally on your machine:
    ```bash
    git clone [https://github.com/yourusername/developer-portfolio.git](https://github.com/yourusername/developer-portfolio.git)
    cd developer-portfolio
+   
+ 2. **install dependencies**
+   
+    ```bash
+    npm install
+    #or
+    yarn install
+    
+ 3. **Start the development server**
+    
+    ```bash
+    npm run dev
+    # or
+    yarn dev
+    
+ 4. **Open http://localhost:5173 (or your specific port) in your browser.**
+     
+  🛠️ Tech Stack
+   .  Frontend Library: React.js
 
- 2. **Install dependencies**
+   .  Styling: Tailwind CSS
 
-     ```bash
-     npm install
-     #or
-     yarn install
+   .  Icons: Lucide React
+
+   .  Build Tool: Vite
+   
+  🎨 Customization
+   
+   Changing Content
+   
+   Edit the App.jsx file to update your personal information:
+   
+     .  Look for the Hero Section to change your Name and Title.
+
+     .  Update the About section with your biography.
+
+     .  Modify the projects array to feature your own GitHub repositories.
+
+    Changing Colors
+    
+    The theme uses standard Tailwind colors (Slate, Blue, Emerald). You can  do a global find-and-replace for blue-500 to your preferred brand color (e.g., purple-500 or indigo-500).
