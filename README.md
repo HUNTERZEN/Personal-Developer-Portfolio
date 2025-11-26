@@ -24,7 +24,7 @@ Follow these commands in your terminal to get the project running locally.
 First, download the code to your local machine.
 
 ```bash
-git clone [https://github.com/yourusername/developer-portfolio.git](https://github.com/yourusername/developer-portfolio.git)
+git clone git@github.com:HUNTERZEN/Personal-Developer-Portfolio.git
 cd developer-portfolio
 ```
 
